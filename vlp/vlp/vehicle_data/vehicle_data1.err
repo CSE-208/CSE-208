@@ -1,0 +1,12 @@
+/COM,ANSYS RELEASE 2024 R2           BUILD 24.2      UP20240513       11:58:39
+
+ *** FATAL ***                           CP =       1.953   TIME= 11:58:42
+ The memory (-m) size requested [193 mb] is not currently available on   
+ one of the other distributed memory parallel processes.  Re-enter the   
+ MAPDL command line with less memory requested.                          
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************

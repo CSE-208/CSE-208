@@ -1,0 +1,11 @@
+/COM,ANSYS RELEASE 2024 R2           BUILD 24.2      UP20240513       11:58:39
+
+ *** FATAL ***                           CP =       0.172   TIME= 11:58:42
+ The memory (-m) size requested [2304 mb] is not currently available.    
+ Re-enter the MAPDL command line with less memory requested.             
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************

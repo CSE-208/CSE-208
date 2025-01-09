@@ -1,0 +1,149 @@
+
+ Ansys Mechanical Enterprise                       
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *         ANSYS MAPDL 2024 R2          LEGAL NOTICES          *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2024 Ansys, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of Ansys, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the Ansys, Inc. online documentation or the Ansys, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * Ansys, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * Ansys, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the Ansys, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the Ansys, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ 2024 R2 
+     
+ Point Releases and Patches installed:   
+     
+ Ansys Service Pack 2024 R2.6290180  
+ Discovery 2024 R2.6290180   
+ Core WB Files 2024 R2.6290180   
+ Ansys Dynamic Reporting 2024 R2.6290180 
+ SpaceClaim 2024 R2.6290180  
+ CFX (includes CFD-Post) 2024 R2.6290180 
+ Chemkin 2024 R2.6290180 
+ EnSight 2024 R2.6290180 
+ FENSAP-ICE 2024 R2.6290180  
+ Fluent (includes CFD-Post) 2024 R2.6290180  
+ Polyflow (includes CFD-Post) 2024 R2.6290180
+ Forte (includes EnSight) 2024 R2.6290180
+ TurboGrid 2024 R2.6290180   
+ ACIS Geometry Interface 2024 R2.6290180 
+ AutoCAD Geometry Interface 2024 R2.6290180  
+ Catia, Version 4 Geometry Interface 2024 R2.6290180 
+ Catia, Version 5 Geometry Interface 2024 R2.6290180 
+ Catia, Version 6 Geometry Interface 2024 R2.6290180 
+ Creo Elements/Direct Modeling Geometry Interface 2024 R2.6290180
+ Creo Parametric Geometry Interface 2024 R2.6290180  
+ Inventor Geometry Interface 2024 R2.6290180 
+ JTOpen Geometry Interface 2024 R2.6290180   
+ NX Geometry Interface 2024 R2.6290180   
+ Parasolid Geometry Interface  2024 R2.6290180   
+ Solid Edge Geometry Interface 2024 R2.6290180   
+ SOLIDWORKS Geometry Interface 2024 R2.6290180   
+ Speos 2024 R2.6290180   
+ Aqwa 2024 R2.6290180
+ Autodyn 2024 R2.6290180 
+ Material Calibration App 2024 R2.6290180
+ Customization Files for User Programmable Features 2024 R2.6290180  
+ Mechanical Products 2024 R2.6290180 
+ Motion 2024 R2.6290180  
+ Academic Student 2024 R2.6290180
+
+
+          *****  MAPDL COMMAND LINE ARGUMENTS  *****
+  INITIAL JOBNAME              = vehicle_data                                                                                                                                                                                                                                            
+  DISTRIBUTED MEMORY PARALLEL REQUESTED
+       4 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
+    TOTAL OF     4 CORES REQUESTED
+  MPI OPTION                   = INTELMPI
+  START-UP FILE MODE           = NOREAD
+  STOP FILE MODE               = NOREAD
+  MODEL FILE NAME              = C:\Users\SAI VIJAY\Downloads\vlp\vlp\vehicle_data\vehicle_data.db                                                                                                                                                                                                   
+  GRAPHICS DEVICE REQUESTED    = win32   
+  GRAPHICAL ENTRY              = YES   
+  LANGUAGE                     = en-us               
+  INITIAL DIRECTORY = C:\Users\SAI VIJAY\Downloads\vlp\vlp\vehicle_data
+
+ RELEASE= 2024 R2              BUILD= 24.2      UP20240513   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=vehicle_data2  11:58:41  JAN 09, 2025 CP=      1.047
+
+
+ *** FATAL ***                           CP =       2.000   TIME= 11:58:42
+ The memory (-m) size requested [193 mb] is not currently available on   
+ one of the other distributed memory parallel processes.  Re-enter the   
+ MAPDL command line with less memory requested.                          
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************
+
+
+ *-----------------------------------------------------------------------------*
+ |                                                                             |
+ |                               RUN COMPLETED                                 |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Ansys MAPDL 2024 R2         Build 24.2         UP20240513    WINDOWS x64   |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Database Requested(-db)     1 MB     Scratch Memory Requested       192 MB |
+ |  Maximum Database Used       1 MB     Maximum Scratch Memory Used      1 MB |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |        CP Time      (sec) =          2.000       Time  =  11:58:42          |
+ |        Elapsed Time (sec) =          5.000       Date  =  01/09/2025        |
+ |                                                                             |
+ *-----------------------------------------------------------------------------*
